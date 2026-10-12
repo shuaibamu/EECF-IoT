@@ -1,0 +1,550 @@
+{
+ "5": {
+  "deploy_gas": 1120609,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     189806,
+     600
+    ],
+    "distribute": [
+     313399,
+     888
+    ],
+    "submit": [
+     73241.6,
+     214.0
+    ],
+    "verify": [
+     725427,
+     1080
+    ],
+    "accepted": 5,
+    "total_gas": 1594840,
+    "total_bytes": 3638
+   },
+   {
+    "round": 2,
+    "elect": [
+     87206,
+     600
+    ],
+    "distribute": [
+     135719,
+     888
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     544150,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 962283,
+    "total_bytes": 3638
+   },
+   {
+    "round": 3,
+    "elect": [
+     87206,
+     600
+    ],
+    "distribute": [
+     135719,
+     888
+    ],
+    "submit": [
+     39044.0,
+     214.0
+    ],
+    "verify": [
+     544852,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 962997,
+    "total_bytes": 3638
+   },
+   {
+    "round": 4,
+    "elect": [
+     87194,
+     600
+    ],
+    "distribute": [
+     135707,
+     888
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     540133,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 958242,
+    "total_bytes": 3638
+   },
+   {
+    "round": 5,
+    "elect": [
+     87206,
+     600
+    ],
+    "distribute": [
+     135695,
+     888
+    ],
+    "submit": [
+     39036.8,
+     214.0
+    ],
+    "verify": [
+     540281,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 958366,
+    "total_bytes": 3638
+   },
+   {
+    "round": 6,
+    "elect": [
+     87206,
+     600
+    ],
+    "distribute": [
+     135731,
+     888
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     538494,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 956639,
+    "total_bytes": 3638
+   }
+  ]
+ },
+ "10": {
+  "deploy_gas": 1120609,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     310112,
+     920
+    ],
+    "distribute": [
+     576820,
+     1368
+    ],
+    "submit": [
+     73242.8,
+     214.0
+    ],
+    "verify": [
+     1696039,
+     1880
+    ],
+    "accepted": 10,
+    "total_gas": 3315399,
+    "total_bytes": 6308
+   },
+   {
+    "round": 2,
+    "elect": [
+     122012,
+     920
+    ],
+    "distribute": [
+     228104,
+     1368
+    ],
+    "submit": [
+     39040.4,
+     213.9
+    ],
+    "verify": [
+     1302365,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2042885,
+    "total_bytes": 6307
+   },
+   {
+    "round": 3,
+    "elect": [
+     122012,
+     920
+    ],
+    "distribute": [
+     228128,
+     1368
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     1342415,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2082971,
+    "total_bytes": 6308
+   },
+   {
+    "round": 4,
+    "elect": [
+     122012,
+     920
+    ],
+    "distribute": [
+     228080,
+     1368
+    ],
+    "submit": [
+     39040.4,
+     214.0
+    ],
+    "verify": [
+     1314688,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2055184,
+    "total_bytes": 6308
+   },
+   {
+    "round": 5,
+    "elect": [
+     122012,
+     920
+    ],
+    "distribute": [
+     228092,
+     1368
+    ],
+    "submit": [
+     39038.0,
+     214.0
+    ],
+    "verify": [
+     1330400,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2070884,
+    "total_bytes": 6308
+   },
+   {
+    "round": 6,
+    "elect": [
+     122000,
+     920
+    ],
+    "distribute": [
+     228140,
+     1368
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     1334498,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2075054,
+    "total_bytes": 6308
+   }
+  ]
+ },
+ "15": {
+  "deploy_gas": 1120609,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     430406,
+     1240
+    ],
+    "distribute": [
+     840265,
+     1848
+    ],
+    "submit": [
+     73240.8,
+     214.0
+    ],
+    "verify": [
+     2918514,
+     2680
+    ],
+    "accepted": 15,
+    "total_gas": 5287797,
+    "total_bytes": 8978
+   },
+   {
+    "round": 2,
+    "elect": [
+     156794,
+     1240
+    ],
+    "distribute": [
+     320525,
+     1848
+    ],
+    "submit": [
+     39042.4,
+     214.0
+    ],
+    "verify": [
+     2401400,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3464355,
+    "total_bytes": 8978
+   },
+   {
+    "round": 3,
+    "elect": [
+     156806,
+     1240
+    ],
+    "distribute": [
+     320549,
+     1848
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     2391598,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3454577,
+    "total_bytes": 8978
+   },
+   {
+    "round": 4,
+    "elect": [
+     156782,
+     1240
+    ],
+    "distribute": [
+     320549,
+     1848
+    ],
+    "submit": [
+     39041.6,
+     213.93333333333334
+    ],
+    "verify": [
+     2346854,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3409809,
+    "total_bytes": 8977
+   },
+   {
+    "round": 5,
+    "elect": [
+     156782,
+     1240
+    ],
+    "distribute": [
+     320537,
+     1848
+    ],
+    "submit": [
+     39040.8,
+     214.0
+    ],
+    "verify": [
+     2394163,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3457094,
+    "total_bytes": 8978
+   },
+   {
+    "round": 6,
+    "elect": [
+     156782,
+     1240
+    ],
+    "distribute": [
+     320513,
+     1848
+    ],
+    "submit": [
+     39038.4,
+     214.0
+    ],
+    "verify": [
+     2406890,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3469761,
+    "total_bytes": 8978
+   }
+  ]
+ },
+ "20": {
+  "deploy_gas": 1120609,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     550689,
+     1560
+    ],
+    "distribute": [
+     1103554,
+     2328
+    ],
+    "submit": [
+     73239.8,
+     214.0
+    ],
+    "verify": [
+     4452863,
+     3480
+    ],
+    "accepted": 20,
+    "total_gas": 7571902,
+    "total_bytes": 11648
+   },
+   {
+    "round": 2,
+    "elect": [
+     191577,
+     1560
+    ],
+    "distribute": [
+     412922,
+     2328
+    ],
+    "submit": [
+     39040.4,
+     214.0
+    ],
+    "verify": [
+     3727819,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5113126,
+    "total_bytes": 11648
+   },
+   {
+    "round": 3,
+    "elect": [
+     191565,
+     1560
+    ],
+    "distribute": [
+     412910,
+     2327
+    ],
+    "submit": [
+     39041.0,
+     214.0
+    ],
+    "verify": [
+     3750311,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5135606,
+    "total_bytes": 11647
+   },
+   {
+    "round": 4,
+    "elect": [
+     191565,
+     1560
+    ],
+    "distribute": [
+     412910,
+     2328
+    ],
+    "submit": [
+     39044.0,
+     213.95
+    ],
+    "verify": [
+     3675542,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5060897,
+    "total_bytes": 11647
+   },
+   {
+    "round": 5,
+    "elect": [
+     191589,
+     1560
+    ],
+    "distribute": [
+     412874,
+     2328
+    ],
+    "submit": [
+     39040.4,
+     214.0
+    ],
+    "verify": [
+     3691574,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5076845,
+    "total_bytes": 11648
+   },
+   {
+    "round": 6,
+    "elect": [
+     191577,
+     1560
+    ],
+    "distribute": [
+     412922,
+     2328
+    ],
+    "submit": [
+     39037.4,
+     213.95
+    ],
+    "verify": [
+     3726395,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5111642,
+    "total_bytes": 11647
+   }
+  ]
+ }
+}
