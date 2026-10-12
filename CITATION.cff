@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "EECF-IoT: reproducibility package"
+authors:
+  - family-names: Shuaib
+    given-names: Mohammed
+  - family-names: Qamar
+    given-names: Shamimul
+  - family-names: Almolhis
+    given-names: Nawaf Abdulaziz
+  - family-names: Alamoudi
+    given-names: Abdulrahman Mohammed
+  - family-names: Alasmari
+    given-names: Ashwag
+  - family-names: Mohammed
+    given-names: Salman Arafath
+license: MIT
+repository-code: "https://github.com/shuaibamu/"
+preferred-citation:
+  type: article
+  title: "Blockchain-Integrated Energy-Efficient Clustered Federated Learning Using Smart Contracts for Sustainable IoT Edge Computing"
+  authors:
+    - family-names: Shuaib
+      given-names: Mohammed
+    - family-names: Qamar
+      given-names: Shamimul
+    - family-names: Almolhis
+      given-names: Nawaf Abdulaziz
+    - family-names: Alamoudi
+      given-names: Abdulrahman Mohammed
+    - family-names: Alasmari
+      given-names: Ashwag
+    - family-names: Mohammed
+      given-names: Salman Arafath
+  journal: "Cluster Computing"
+  status: submitted

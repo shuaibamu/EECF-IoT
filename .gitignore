@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+node_modules/
+data/*.csv
+figures/tikz/*.aux
+figures/tikz/*.log
