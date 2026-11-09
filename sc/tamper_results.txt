@@ -1,0 +1,11 @@
+tampered batch status 0
+honest batch status 1
+duplicate-head batch status 0
+honest batch status 1
+logDeferral status 1
+stored deferral word 0x834a0367
+verifyBatch on deferred round status 0
+distribute on deferred round status 0
+second logDeferral status 0
+logDeferral with passing RCIC status 0
+logDeferral by a head status 0

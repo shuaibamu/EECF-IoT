@@ -1,0 +1,606 @@
+{
+ "5": {
+  "deploy_gas": 1262505,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     189874,
+     600
+    ],
+    "distribute": [
+     315642,
+     888
+    ],
+    "submit": [
+     73241.6,
+     214.0
+    ],
+    "verify": [
+     727704,
+     1080
+    ],
+    "accepted": 5,
+    "total_gas": 1599428,
+    "total_bytes": 3638
+   },
+   {
+    "round": 2,
+    "elect": [
+     87274,
+     600
+    ],
+    "distribute": [
+     137965,
+     888
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     546427,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 966874,
+    "total_bytes": 3638
+   },
+   {
+    "round": 3,
+    "elect": [
+     87274,
+     600
+    ],
+    "distribute": [
+     137965,
+     888
+    ],
+    "submit": [
+     39044.0,
+     214.0
+    ],
+    "verify": [
+     547129,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 967588,
+    "total_bytes": 3638
+   },
+   {
+    "round": 4,
+    "elect": [
+     87262,
+     600
+    ],
+    "distribute": [
+     137953,
+     888
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     542410,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 962833,
+    "total_bytes": 3638
+   },
+   {
+    "round": 5,
+    "elect": [
+     87274,
+     600
+    ],
+    "distribute": [
+     137941,
+     888
+    ],
+    "submit": [
+     39036.8,
+     214.0
+    ],
+    "verify": [
+     542558,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 962957,
+    "total_bytes": 3638
+   },
+   {
+    "round": 6,
+    "elect": [
+     87274,
+     600
+    ],
+    "distribute": [
+     137977,
+     888
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     540771,
+     1080
+    ],
+    "accepted": 4,
+    "total_gas": 961230,
+    "total_bytes": 3638
+   },
+   {
+    "round": 7,
+    "deferred": true,
+    "elect": [
+     87262,
+     600
+    ],
+    "logDeferral": [
+     50511,
+     214
+    ],
+    "total_gas": 137773,
+    "total_bytes": 814
+   }
+  ]
+ },
+ "10": {
+  "deploy_gas": 1262505,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     310180,
+     920
+    ],
+    "distribute": [
+     579073,
+     1368
+    ],
+    "submit": [
+     73242.8,
+     214.0
+    ],
+    "verify": [
+     1698316,
+     1880
+    ],
+    "accepted": 10,
+    "total_gas": 3319997,
+    "total_bytes": 6308
+   },
+   {
+    "round": 2,
+    "elect": [
+     122080,
+     920
+    ],
+    "distribute": [
+     230360,
+     1368
+    ],
+    "submit": [
+     39040.4,
+     213.9
+    ],
+    "verify": [
+     1304642,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2047486,
+    "total_bytes": 6307
+   },
+   {
+    "round": 3,
+    "elect": [
+     122080,
+     920
+    ],
+    "distribute": [
+     230384,
+     1368
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     1344692,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2087572,
+    "total_bytes": 6308
+   },
+   {
+    "round": 4,
+    "elect": [
+     122080,
+     920
+    ],
+    "distribute": [
+     230336,
+     1368
+    ],
+    "submit": [
+     39040.4,
+     214.0
+    ],
+    "verify": [
+     1316965,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2059785,
+    "total_bytes": 6308
+   },
+   {
+    "round": 5,
+    "elect": [
+     122080,
+     920
+    ],
+    "distribute": [
+     230348,
+     1368
+    ],
+    "submit": [
+     39038.0,
+     214.0
+    ],
+    "verify": [
+     1332677,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2075485,
+    "total_bytes": 6308
+   },
+   {
+    "round": 6,
+    "elect": [
+     122068,
+     920
+    ],
+    "distribute": [
+     230396,
+     1368
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     1336775,
+     1880
+    ],
+    "accepted": 9,
+    "total_gas": 2079655,
+    "total_bytes": 6308
+   },
+   {
+    "round": 7,
+    "deferred": true,
+    "elect": [
+     122068,
+     920
+    ],
+    "logDeferral": [
+     50511,
+     214
+    ],
+    "total_gas": 172579,
+    "total_bytes": 1134
+   }
+  ]
+ },
+ "15": {
+  "deploy_gas": 1262505,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     430474,
+     1240
+    ],
+    "distribute": [
+     842528,
+     1848
+    ],
+    "submit": [
+     73240.8,
+     214.0
+    ],
+    "verify": [
+     2920791,
+     2680
+    ],
+    "accepted": 15,
+    "total_gas": 5292405,
+    "total_bytes": 8978
+   },
+   {
+    "round": 2,
+    "elect": [
+     156862,
+     1240
+    ],
+    "distribute": [
+     322791,
+     1848
+    ],
+    "submit": [
+     39042.4,
+     214.0
+    ],
+    "verify": [
+     2403677,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3468966,
+    "total_bytes": 8978
+   },
+   {
+    "round": 3,
+    "elect": [
+     156874,
+     1240
+    ],
+    "distribute": [
+     322815,
+     1848
+    ],
+    "submit": [
+     39041.6,
+     214.0
+    ],
+    "verify": [
+     2393875,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3459188,
+    "total_bytes": 8978
+   },
+   {
+    "round": 4,
+    "elect": [
+     156850,
+     1240
+    ],
+    "distribute": [
+     322815,
+     1848
+    ],
+    "submit": [
+     39041.6,
+     213.93333333333334
+    ],
+    "verify": [
+     2349131,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3414420,
+    "total_bytes": 8977
+   },
+   {
+    "round": 5,
+    "elect": [
+     156850,
+     1240
+    ],
+    "distribute": [
+     322803,
+     1848
+    ],
+    "submit": [
+     39040.8,
+     214.0
+    ],
+    "verify": [
+     2396440,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3461705,
+    "total_bytes": 8978
+   },
+   {
+    "round": 6,
+    "elect": [
+     156850,
+     1240
+    ],
+    "distribute": [
+     322779,
+     1848
+    ],
+    "submit": [
+     39038.4,
+     214.0
+    ],
+    "verify": [
+     2409167,
+     2680
+    ],
+    "accepted": 14,
+    "total_gas": 3474372,
+    "total_bytes": 8978
+   },
+   {
+    "round": 7,
+    "deferred": true,
+    "elect": [
+     156862,
+     1240
+    ],
+    "logDeferral": [
+     50511,
+     214
+    ],
+    "total_gas": 207373,
+    "total_bytes": 1454
+   }
+  ]
+ },
+ "20": {
+  "deploy_gas": 1262505,
+  "rounds": [
+   {
+    "round": 1,
+    "elect": [
+     550757,
+     1560
+    ],
+    "distribute": [
+     1105827,
+     2328
+    ],
+    "submit": [
+     73239.8,
+     214.0
+    ],
+    "verify": [
+     4455140,
+     3480
+    ],
+    "accepted": 20,
+    "total_gas": 7576520,
+    "total_bytes": 11648
+   },
+   {
+    "round": 2,
+    "elect": [
+     191645,
+     1560
+    ],
+    "distribute": [
+     415198,
+     2328
+    ],
+    "submit": [
+     39040.4,
+     214.0
+    ],
+    "verify": [
+     3730096,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5117747,
+    "total_bytes": 11648
+   },
+   {
+    "round": 3,
+    "elect": [
+     191633,
+     1560
+    ],
+    "distribute": [
+     415186,
+     2327
+    ],
+    "submit": [
+     39041.0,
+     214.0
+    ],
+    "verify": [
+     3752588,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5140227,
+    "total_bytes": 11647
+   },
+   {
+    "round": 4,
+    "elect": [
+     191633,
+     1560
+    ],
+    "distribute": [
+     415186,
+     2328
+    ],
+    "submit": [
+     39044.0,
+     213.95
+    ],
+    "verify": [
+     3677819,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5065518,
+    "total_bytes": 11647
+   },
+   {
+    "round": 5,
+    "elect": [
+     191657,
+     1560
+    ],
+    "distribute": [
+     415150,
+     2328
+    ],
+    "submit": [
+     39040.4,
+     214.0
+    ],
+    "verify": [
+     3693851,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5081466,
+    "total_bytes": 11648
+   },
+   {
+    "round": 6,
+    "elect": [
+     191645,
+     1560
+    ],
+    "distribute": [
+     415198,
+     2328
+    ],
+    "submit": [
+     39037.4,
+     213.95
+    ],
+    "verify": [
+     3728672,
+     3480
+    ],
+    "accepted": 19,
+    "total_gas": 5116263,
+    "total_bytes": 11647
+   },
+   {
+    "round": 7,
+    "deferred": true,
+    "elect": [
+     191645,
+     1560
+    ],
+    "logDeferral": [
+     50511,
+     214
+    ],
+    "total_gas": 242156,
+    "total_bytes": 1774
+   }
+  ]
+ }
+}

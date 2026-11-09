@@ -1,0 +1,59 @@
+{
+ "rows": [
+  [
+   "Head election (Algorithm 1)",
+   "N = 100, n = 40, T = 150",
+   "47.6 \u00b1 5.0 ms"
+  ],
+  [
+   "Reliability gate (Eq. 16)",
+   "N = 100, M = 200 samples",
+   "0.6 \u00b1 0.2 ms"
+  ],
+  [
+   "Head election (Algorithm 1)",
+   "N = 300, n = 40, T = 150",
+   "79.2 \u00b1 6.8 ms"
+  ],
+  [
+   "Reliability gate (Eq. 16)",
+   "N = 300, M = 200 samples",
+   "1.7 \u00b1 0.2 ms"
+  ],
+  [
+   "Head election (Algorithm 1)",
+   "N = 500, n = 40, T = 150",
+   "143.3 \u00b1 23.3 ms"
+  ],
+  [
+   "Reliability gate (Eq. 16)",
+   "N = 500, M = 200 samples",
+   "3.2 \u00b1 1.4 ms"
+  ],
+  [
+   "Local training per head",
+   "TON_IoT MLP, 500 records, E = 2",
+   "14.7 \u00b1 0.6 ms"
+  ],
+  [
+   "Local training per head",
+   "Wazihub LSTM(32), 207 windows, E = 2",
+   "14.8 \u00b1 1.5 ms"
+  ],
+  [
+   "Sketching and screening (Eq. 15)",
+   "K = 10, 64-dim sketches",
+   "2.4 \u00b1 0.3 ms"
+  ],
+  [
+   "FedAvg aggregation",
+   "K = 10, |w| = 13,898",
+   "0.1 \u00b1 0.0 ms"
+  ],
+  [
+   "Contract round on a Python EVM (py-evm)",
+   "elect + 10 \u00d7 submit + verifyBatch + distribute",
+   "815.6 \u00b1 75.7 ms"
+  ]
+ ]
+}
